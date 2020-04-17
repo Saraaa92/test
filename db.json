@@ -1,7 +1,7 @@
 
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "location": "json-server", "type": "0" ,"date":"2014-02-09","time":"02:00"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
